@@ -300,6 +300,7 @@ class Ticket {
         return $this->ht['helptopic'];
     }
 //Comment
+//Test 2
     function getCreateDate() {
         return $this->ht['created'];
     }
