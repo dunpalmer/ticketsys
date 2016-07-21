@@ -299,7 +299,7 @@ class Ticket {
 
         return $this->ht['helptopic'];
     }
-
+//Comment
     function getCreateDate() {
         return $this->ht['created'];
     }
